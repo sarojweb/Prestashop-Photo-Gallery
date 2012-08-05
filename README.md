@@ -8,5 +8,5 @@ Feature :
 - Configure thumbnail size on admin page
 - Easy to install, easy to upgrade, just copy to use
 
-Sample Fronend : http://www.thedreamscake.com/p/modules/gallery/gallery_page.php
+Sample Frontend : http://www.thedreamscake.com/p/modules/gallery/gallery_page.php
 
